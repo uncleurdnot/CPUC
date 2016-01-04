@@ -1,0 +1,542 @@
+[
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\adver_mobile_frag.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\layout\\adver_mobile_frag.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_mode_bar.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\displayinfo.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\layout\\displayinfo.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\sherlock_spinner_dropdown_item.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\sherlock_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\abs__activity_chooser_view_list_item.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_checkbox.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\layout\\abs__list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__popup_menu_item_layout.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__search_dropdown_item_icons_2line.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\layout\\abs__search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\displayhistory.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\layout\\displayhistory.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_action_bar.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\layout\\abs__screen_action_bar.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_icon.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\layout\\abs__list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_mode_close_item.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_mode_close_item.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_checkbox.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\displayinfo.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\layout\\displayinfo.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\list_row.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\layout\\list_row.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\historydetailsdialog.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\layout\\historydetailsdialog.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\sherlock_spinner_item.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\sherlock_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_simple_overlay_action_mode.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\historydetailsdialog.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\layout\\historydetailsdialog.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_for_viewer.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\layout\\actionbar_for_viewer.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_simple.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\layout\\abs__screen_simple.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_menu_layout.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_checkbox.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\dummy.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\layout\\dummy.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_mode_close_item.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_mode_close_item.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\sherlock_spinner_item.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\sherlock_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_home.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_bar_home.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\wiredtab.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\layout\\wiredtab.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\advertab.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\layout\\advertab.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_tab.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_bar_tab.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__activity_chooser_view_list_item.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\list_row.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\layout\\list_row.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\historylist.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\layout\\historylist.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_mode_bar.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_for_viewer.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\layout\\actionbar_for_viewer.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__popup_menu_item_layout.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\layout\\abs__popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tabs.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\layout\\fragment_tabs.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\adver_satellite_frag.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\layout\\adver_satellite_frag.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\abs__search_view.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__search_view.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_scorecard.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\layout\\dialog_scorecard.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\displayhistory.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\layout\\displayhistory.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_action_bar.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__screen_action_bar.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_mode_bar.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_radio.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__search_view.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__search_view.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_tab.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_bar_tab.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__activity_chooser_view.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\layout\\abs__activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\sherlock_spinner_item.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\layout\\sherlock_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\historydetailsdialog.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\layout\\historydetailsdialog.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_simple.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__screen_simple.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\adver_fixed_frag.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\layout\\adver_fixed_frag.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_icon.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\adver_mobile_frag.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\layout\\adver_mobile_frag.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_simple_overlay_action_mode.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\layout\\abs__screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__activity_chooser_view.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_title_item.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__activity_chooser_view_list_item.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\layout\\abs__activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\viewer_fragment.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\layout\\viewer_fragment.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\tester_fragment.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\layout\\tester_fragment.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__simple_dropdown_hint.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\layout\\abs__simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\advertab.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\layout\\advertab.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_menu_item_layout.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_dialog.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\layout\\fragment_dialog.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_tab_bar_view.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_bar_tab_bar_view.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_for_viewer.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\layout\\actionbar_for_viewer.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\est_mobile_frag.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\layout\\est_mobile_frag.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\wiredtab.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\layout\\wiredtab.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_home.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_bar_home.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_simple.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__screen_simple.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\dummy.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\layout\\dummy.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\abs__activity_chooser_view.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_action_bar_overlay.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__screen_action_bar_overlay.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\advertab.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\layout\\advertab.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\tester_fragment.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\layout\\tester_fragment.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\historylist.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\layout\\historylist.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_simple_overlay_action_mode.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\displayhistory.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\layout\\displayhistory.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\est_mobile_frag.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\layout\\est_mobile_frag.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_scorecard.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\layout\\dialog_scorecard.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\adver_fixed_frag.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\layout\\adver_fixed_frag.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_tab.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_bar_tab.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_tab_bar_view.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_bar_tab_bar_view.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\sherlock_spinner_dropdown_item.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\layout\\sherlock_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_radio.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\layout\\abs__list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_menu_item_layout.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\adver_satellite_frag.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\layout\\adver_satellite_frag.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\sattab.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\layout\\sattab.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_action_bar.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__screen_action_bar.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\list_row.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\layout\\list_row.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_tab_bar_view.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_bar_tab_bar_view.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_radio.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\est_mobile_frag.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\layout\\est_mobile_frag.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_dialog.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\layout\\fragment_dialog.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_menu_layout.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_action_bar_overlay.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__screen_action_bar_overlay.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\sherlock_spinner_dropdown_item.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\sherlock_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\adver_fixed_frag.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\layout\\adver_fixed_frag.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\viewer_fragment.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\layout\\viewer_fragment.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\displayinfo.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\layout\\displayinfo.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__search_dropdown_item_icons_2line.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\fieldtab.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\layout\\fieldtab.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_home.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_bar_home.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\sattab.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\layout\\sattab.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_dialog.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\layout\\fragment_dialog.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\viewer_fragment.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\layout\\viewer_fragment.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_title_item.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_menu_layout.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\abs__simple_dropdown_hint.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\fieldtab.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\layout\\fieldtab.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\historylist.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\layout\\historylist.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\abs__search_dropdown_item_icons_2line.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\sattab.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\layout\\sattab.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_menu_item_layout.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tabs.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\layout\\fragment_tabs.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_icon.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\tester_fragment.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\layout\\tester_fragment.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_mode_close_item.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_mode_close_item.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_scorecard.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\layout\\dialog_scorecard.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\wiredtab.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\layout\\wiredtab.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\adver_satellite_frag.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\layout\\adver_satellite_frag.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__simple_dropdown_hint.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_action_bar_overlay.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\layout\\abs__screen_action_bar_overlay.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\abs__popup_menu_item_layout.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\layout\\abs__popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_title_item.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\layout\\abs__action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tabs.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\layout\\fragment_tabs.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\abs__search_view.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\layout\\abs__search_view.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\fieldtab.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\layout\\fieldtab.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\dummy.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\layout\\dummy.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\layout\\adver_mobile_frag.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\layout\\adver_mobile_frag.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\layout\\about.xml"
+    }
+]

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <dimen name="addressTextSize">18dp</dimen>
+    <dimen name="adjustmentPadding">10dp</dimen>
+    <dimen name="buttonHeight">270dp</dimen>
+    <dimen name="buttonWidth">195dp</dimen>
+    <dimen name="headerDateWidth">90dp</dimen>
+    <dimen name="headerDelayVarWidth">90dp</dimen>
+    <dimen name="headerDelayWidth">90dp</dimen>
+    <dimen name="headerDownWidth">105dp</dimen>
+    <dimen name="headerUpWidth">105dp</dimen>
+    <dimen name="historyDateSize">22dp</dimen>
+    <dimen name="historyDetailsSize">24dp</dimen>
+    <dimen name="historyDialogHeight">75dp</dimen>
+    <dimen name="historyFont">15dp</dimen>
+    <dimen name="historyLabelSize">14sp</dimen>
+    <dimen name="historyListSize">18dp</dimen>
+    <dimen name="historyRowPadding">12dp</dimen>
+    <dimen name="imageRowHeight">90dp</dimen>
+    <dimen name="labelWidth">210dp</dimen>
+    <dimen name="legendHeight">60dp</dimen>
+    <dimen name="loadingBarHeight">25dip</dimen>
+    <dimen name="loadingCircleSize">90dp</dimen>
+    <dimen name="loadingPadding">50dp</dimen>
+    <dimen name="mosIconWidth">70dp</dimen>
+    <dimen name="mosPadding">5dp</dimen>
+    <dimen name="mosQuality">12dp</dimen>
+    <dimen name="numDisplayWidth">165dp</dimen>
+    <dimen name="numResultsSize">30dp</dimen>
+    <dimen name="resultsHeight">90dp</dimen>
+    <dimen name="resultsLabelSize">22dp</dimen>
+    <dimen name="standardPadding">20dp</dimen>
+    <dimen name="startButtonSize">400dp</dimen>
+    <dimen name="testHeight">60dp</dimen>
+    <dimen name="testUnitSize">20dp</dimen>
+    <dimen name="testerViewSize">130dp</dimen>
+    <dimen name="textUnitSize">30dp</dimen>
+    <dimen name="togglePadding">10dp</dimen>
+    <dimen name="unitsWidth">52.5dp</dimen>
+    <string name="GPS_Enabled">GPSEnabled: </string>
+    <string name="GPS_latitude_last">GPSLastKnownLat: </string>
+    <string name="GPS_longitude_last">GPSLastKnownLong: </string>
+    <string name="GPSoverride_summary">Disable checking for valid GPS (Latitude/Longitude) readings.</string>
+    <string name="GPSoverride_title">GPS Override</string>
+    <string name="Indoor">Indoor</string>
+    <string name="NetworkLabel">Network Type:</string>
+    <string name="Network_Enabled">NetworkEnabled: </string>
+    <string name="Network_latitude_last">NetworkLastKnownLat: </string>
+    <string name="Network_longitude_last">NetworkLastKnownLong: </string>
+    <string name="Outdoor">Outdoor</string>
+    <string name="about">About</string>
+    <string name="about_label">About</string>
+    <string name="about_text" translatable="false">&lt;html>
+        &lt;p>\nCalSPEED, released by the California Public Utilities Commission (CPUC), empowers end-users with a professional-level, industry-standard testing tool to measure the quality and speed of their mobile data connection.\n&lt;/p> 
+        &lt;p>\nCalSPEED conducts a two-phase test of an initial test and a second validation test in order to ensure statistically significant measurements. The test captures upload speed, download speed, message delay (latency), and message delay variation (jitter). The first two metrics measure broadband throughput, while the second two measure the streaming quality of your mobile broadband connection. A brief results history of each test is stored locally, displaying a detailed description when a test is selected. The results are uploaded to a public repository at the CPUC to provide you with the ability to compare broadband coverage and performance at your location with that in other areas of California.\n&lt;/p>
+        &lt;p>\nThe test results may vary based on factors such as location, end-user hardware, network congestion, and time of day. If you receive a results ‘Incomplete’ message, it is because one of these factors has hindered the collection of valid results. Please try running the test again.\n&lt;/p>
+        &lt;p>&lt;u>\nPlease note that, depending on the network connection, tests in CalSPEED may use a lot of data capacity. As with any mobile application, monitor your usage relative to your particular data plan. The CPUC does not assume any responsibility for charges incurred while running CalSPEED.\n&lt;/u>&lt;/p>
+        &lt;p>&lt;u>&lt;b>MOS Value:&lt;/u>&lt;/b>\n
+		&lt;p>The MOS (Mean Opinion Score) classification for a test result is as follows:&lt;/p>
+		&amp;#8226; Satisfactory: Higher than or equal to 4.0&lt;br/>
+		&amp;#8226; Unsatisfactory: Lower than 4.0&lt;br/>
+		&amp;#8226; N/A: We can\'t determine the MOS value.&lt;br/>
+		&lt;/p>
+        &lt;p align="center">&lt;b>&lt;u>\n\nAbout the CPUC\n&lt;/u>&lt;/b>&lt;/p>
+        &lt;p>\nThe California Public Utilities Commission (CPUC) is the California recipient of an $8,000,000 State Broadband Data and Development Grant, awarded by the National Telecommunications and Information
+Administration (NTIA) under the American Recovery and Reinvestment Act (ARRA). A portion of this Grant funds the development, maintenance, and operation of CalSPEED.\n&lt;/p>
+&lt;p>\nCalSPEED is developed by California State University, Monterey Bay\'s Computer Science and Information Technology Program.\n&lt;/p>
+&lt;p>\n&lt;b>Contact:&lt;/b> &lt;a href="mailto:calspeed@cpuc.ca.gov">calspeed@cpuc.ca.gov&lt;/a>\n&lt;/p>
+ &lt;/html></string>
+    <string name="about_text_viewer" translatable="false">&lt;html>
+  &lt;p>\nMap View, released by the California Public Utilities Commission (CPUC), is a mobile app for California citizens to view broadband services in their area. The app displays advertised upload and download speeds from broadband providers offering service in the area. It also displays estimated upload and download speeds of the four major mobile providers based on the mobile broadband drive-test, which is conducted by CPUC. The data currently displayed represents the situation as of December 31, 2012 and will be updated approximately every six months.\n&lt;/p>
+  &lt;p>\nThe information displayed in Map View is not accurate down to a user\'s exact location. Map View is intended to give the general public the most accurate information available to the CPUC about service speeds in the area where the application is being used, or in the area near an address provided by the user. Contact the providers displayed in Map View for service availability and speeds at a particular address.\n&lt;/p>
+  &lt;p>\nThe app displays upload and download speeds in four categories: advertised fixed, advertised mobile, estimated mobile, and advertised satellite. The “advertised fixed” category displays advertised speeds of all services which are delivered to a particular, stationary location. Such services are provided using several different technologies, including “wireline” technologies such as xDSL, Cable Modem, or Fiber to the home, as well as fixed wireless. The “advertised mobile” category displays speeds of “mobile wireless” technologies, such as 3G, 4G, or LTE, to provide service to users (i.e., cellular broadband) who can receive a broadband signal while they are in motion. The “estimated mobile” category displays estimated wireless speeds of the four major mobile providers -- AT&amp;amp;T, Sprint, T-Mobile, and Verizon -- based on the CPUC\'s semi-annual mobile broadband drive test. For more detailed information on the drive test, see &lt;a href="http://www.cpuc.ca.gov/PUC/Telco/Information+for+providing+service/Broadband+Availability+Maps.htm">California Broadband Availability Maps and Data&lt;/a>. The “advertised satellite” category displays speeds of satellite providers.\n&lt;/p>
+  &lt;p>\nThe arrows in the results display indicate upstream speed (arrow pointing up) and downstream speed (arrow pointing down). The units used in the sliding bar scale are in megabits per second (Mb/s, or Mpbs)\n&lt;/p> 
+&lt;p>\nThe color scheme is &lt;font color=#FF0000>&lt;i>red&lt;/i>&lt;/font>, &lt;font color=#FF8000>&lt;i>orange&lt;/i>&lt;/font>, and &lt;font color=#008000>&lt;i>green&lt;/i>&lt;/font>.\n&lt;/p>
+&lt;p>&lt;b>&lt;font color=#FF0000>&lt;i>\nRed&lt;/i>&lt;/font>&lt;/b> indicates speeds falling below the FCC\'s broadband definition of .200 Mb/s for upstream, and for downstream, below .768 Mb/s.\n&lt;/p> 
+&lt;p>&lt;b>&lt;font color=#FF8000>&lt;i>\nOrange&lt;/i>&lt;/font>&lt;/b> indicates speeds equal or greater than .200 Mb/s for upstream, and .768 Mb/s for downstream but less than 1.50 Mb/s for upstream and 6.00 Mb/s for downstream.\n&lt;/p> 
+&lt;p>&lt;b>&lt;font color=#008000>&lt;i>\nGreen&lt;/i>&lt;/font>&lt;/b> indicates speeds equal or greater than 1.50 Mb/s for upstream and 6.00 Mb/s for downstream.\n&lt;/p>
+&lt;p>&lt;b>&lt;u>\nAbout The CPUC\n&lt;/u>&lt;/b>&lt;/p>
+&lt;p>\nThe California Public Utilities Commission is the California recipient of a State Broadband Initiative Grant, awarded by the National Telecommunications and Information Administration under the American Recovery and Reinvestment Act. A portion of this Grant funds the development, maintenance, and operation of Map View.\n&lt;/p>
+&lt;p>\nMap View is developed by California State University, Monterey Bay\'s Computer Science and Information Technology Program under contract with the CPUC.\n&lt;/p>
+&lt;p>\n&lt;b>Contact:&lt;/b> &lt;a href="mailto:calspeed@cpuc.ca.gov">calspeed@cpuc.ca.gov&lt;/a>\n&lt;/p>
+&lt;p>\n&lt;b>&lt;u>Privacy Statement&lt;/u>&lt;/b>\n&lt;/p>
+&lt;p>\nThis application does not collect or retain any personally identifiable data. It uses only the location the user provides to return the information requested, and does not retain that information.&lt;/p>
+ &lt;/html></string>
+    <string name="about_text_viewerr">&lt;html>
+  &lt;p>\nMap View, released by the California Public Utilities Commission (CPUC), is a mobile app for California citizens to view broadband services in their area. The app displays advertised upload and download speeds from broadband providers offering service in the area. It also displays estimated upload and download speeds of the four major mobile providers based on the mobile broadband drive-test, which is conducted by CPUC. The data currently displayed represents the situation as of December 31, 2012 and will be updated approximately every six months.\n&lt;/p>
+  &lt;p>\nThe information displayed in Map View is not accurate down to a user\'s exact location. Map View is intended to give the general public the most accurate information available to the CPUC about service speeds in the area where the application is being used, or in the area near an address provided by the user. Contact the providers displayed in Map View for service availability and speeds at a particular address.\n&lt;/p>
+  &lt;p>\nThe app displays upload and download speeds in four categories: advertised fixed, advertised mobile, estimated mobile, and advertised satellite. The “advertised fixed” category displays advertised speeds of all services which are delivered to a particular, stationary location. Such services are provided using several different technologies, including “wireline” technologies such as xDSL, Cable Modem, or Fiber to the home, as well as fixed wireless. The “advertised mobile” category displays speeds of “mobile wireless” technologies, such as 3G, 4G, or LTE, to provide service to users (i.e., cellular broadband) who can receive a broadband signal while they are in motion. The “estimated mobile” category displays estimated wireless speeds of the four major mobile providers -- AT&amp;amp;T, Sprint, T-Mobile, and Verizon -- based on the CPUC\'s semi-annual mobile broadband drive test. For more detailed information on the drive test, see &lt;a href="http://www.cpuc.ca.gov/PUC/Telco/Information+for+providing+service/Broadband+Availability+Maps.htm">California Broadband Availability Maps and Data&lt;/a>. The “advertised satellite” category displays speeds of satellite providers.\n&lt;/p>
+  &lt;p>\nThe arrows in the results display indicate upstream speed (arrow pointing up) and downstream speed (arrow pointing down). The units used in the sliding bar scale are in megabits per second (Mb/s, or Mpbs)\n&lt;/p> 
+&lt;p>\nThe color scheme is &lt;font color=#FF0000>&lt;i>red&lt;/i>&lt;/font>, &lt;font color=#FF8000>&lt;i>orange&lt;/i>&lt;/font>, and &lt;font color=#008000>&lt;i>green&lt;/i>&lt;/font>.\n&lt;/p>
+&lt;p>&lt;b>&lt;font color=#FF0000>&lt;i>\nRed&lt;/i>&lt;/font>&lt;/b> indicates speeds falling below the FCC\'s broadband definition of .200 Mb/s for upstream, and for downstream, below .768 Mb/s.\n&lt;/p> 
+&lt;p>&lt;b>&lt;font color=#FF8000>&lt;i>\nOrange&lt;/i>&lt;/font>&lt;/b> indicates speeds equal or greater than .200 Mb/s for upstream, and .768 Mb/s for downstream but less than 1.50 Mb/s for upstream and 6.00 Mb/s for downstream.\n&lt;/p> 
+&lt;p>&lt;b>&lt;font color=#008000>&lt;i>\nGreen&lt;/i>&lt;/font>&lt;/b> indicates speeds equal or greater than 1.50 Mb/s for upstream and 6.00 Mb/s for downstream.\n&lt;/p>
+&lt;p>&lt;b>&lt;u>\nAbout The CPUC\n&lt;/u>&lt;/b>&lt;/p>
+&lt;p>\nThe California Public Utilities Commission is the California recipient of a State Broadband Initiative Grant, awarded by the National Telecommunications and Information Administration under the American Recovery and Reinvestment Act. A portion of this Grant funds the development, maintenance, and operation of Map View.\n&lt;/p>
+&lt;p>\nMap View is developed by California State University, Monterey Bay\'s Computer Science and Information Technology Program under contract with the CPUC.\n&lt;/p>
+&lt;p>\n&lt;b>Contact:&lt;/b> &lt;a href="mailto:calspeed@cpuc.ca.gov">calspeed@cpuc.ca.gov&lt;/a>\n&lt;/p>
+&lt;p>\n&lt;b>&lt;u>Privacy Statement&lt;/u>&lt;/b>\n&lt;/p>
+&lt;p>\nThis application does not collect or retain any personally identifiable data. It uses only the location the user provides to return the information requested, and does not retain that information.&lt;/p>
+ &lt;/html></string>
+    <string name="about_textt">&lt;html>
+        &lt;p>\nCalSPEED, released by the California Public Utilities Commission (CPUC), empowers end-users with a professional-level, industry-standard testing tool to measure the quality and speed of their mobile data connection.\n&lt;/p> 
+        &lt;p>\nCalSPEED conducts a two-phase test of an initial test and a second validation test in order to ensure statistically significant measurements. The test captures upload speed, download speed, message delay (latency), and message delay variation (jitter). The first two metrics measure broadband throughput, while the second two measure the streaming quality of your mobile broadband connection. A brief results history of each test is stored locally, displaying a detailed description when a test is selected. The results are uploaded to a public repository at the CPUC to provide you with the ability to compare broadband coverage and performance at your location with that in other areas of California.\n&lt;/p>
+        &lt;p>\nThe test results may vary based on factors such as location, end-user hardware, network congestion, and time of day. If you receive a results ‘Incomplete’ message, it is because one of these factors has hindered the collection of valid results. Please try running the test again.\n&lt;/p>
+        &lt;p>&lt;u>\nPlease note that, depending on the network connection, tests in CalSPEED may use a lot of data capacity. As with any mobile application, monitor your usage relative to your particular data plan. The CPUC does not assume any responsibility for charges incurred while running CalSPEED.\n&lt;/u>&lt;/p>
+        &lt;div align="center">&lt;p>&lt;b>&lt;u>\nAbout the CPUC\n&lt;/u>&lt;/b>&lt;/p>&lt;/div>
+        &lt;p>\nThe California Public Utilities Commission (CPUC) is the California recipient of an $8,000,000 State Broadband Data and Development Grant, awarded by the National Telecommunications and Information
+Administration (NTIA) under the American Recovery and Reinvestment Act (ARRA). A portion of this Grant funds the development, maintenance, and operation of CalSPEED.\n&lt;/p>
+&lt;p>\nCalSPEED is developed by California State University, Monterey Bay\'s Computer Science and Information Technology Program.\n&lt;/p>
+&lt;p>\n&lt;b>Contact:&lt;/b> &lt;a href="mailto:calspeed@cpuc.ca.gov">calspeed@cpuc.ca.gov&lt;/a>\n&lt;/p>
+        &lt;/html></string>
+    <string name="about_title">About</string>
+    <string name="addressSearch">Search Address</string>
+    <string name="alert_dialog_cancel" translatable="false">Cancel</string>
+    <string name="alert_dialog_ok" translatable="false">OK</string>
+    <string name="alert_dialog_save" translatable="false">Save</string>
+    <string name="alert_dialog_two_buttons_title" translatable="false">
+        Lorem ipsum dolor sit aie consectetur adipiscing\nPlloaso mako nuto
+        siwuf cakso dodtos anr koop.
+    </string>
+    <string name="app_name" translatable="false">CalSPEED</string>
+    <string name="changed_server">Changed testing server to: %1$s</string>
+    <string name="connection_type">ConnectionType: %1$s</string>
+    <string name="dateLabel">Date</string>
+    <string name="defaultGrade">N/A</string>
+    <string name="defaultValue">0</string>
+    <string name="default_server_indicator">Default server: %1$s</string>
+    <string name="done_button"><b>Done</b></string>
+    <string name="downloadLabel">Download Speed</string>
+    <string name="email_title">CPUC Mobile Client for Android Result on %1$s</string>
+    <string name="exit">Exit</string>
+    <string name="fail_tip">Test failed.</string>
+    <string name="fragment_dialog_support" translatable="false">Dialog</string>
+    <string name="fragment_stack_support" translatable="false">Stack</string>
+    <string name="from_header">From:</string>
+    <string name="headerDescription">Application Header Image</string>
+    <string name="header_date">Date</string>
+    <string name="header_download">Down</string>
+    <string name="header_jitter">Delay Var</string>
+    <string name="header_latency">Delay</string>
+    <string name="header_upload">Up</string>
+    <string name="hello_world" translatable="false"><b>Hello, <i>World!</i></b></string>
+    <string name="host_indicator">Host: %1$s</string>
+    <string name="intent_error">Statistics Activity Intent Error.</string>
+    <string name="java_line">Java: Version = %1$s, Vendor = %2$s</string>
+    <string name="jitterLabel">Delay Variation</string>
+    <string name="kbps" translatable="false">kbps</string>
+    <string name="kilobytespersecond">kbps</string>
+    <string name="latencyLabel">Delay</string>
+    <string name="latitudeLabel">Latitude:</string>
+    <string name="latitude_result">Latitude: %1$f</string>
+    <string name="longitudeLabel">Longtitude:</string>
+    <string name="longitude_result">Longitude: %1$f</string>
+    <string name="mbps" translatable="false">mbps</string>
+    <string name="miliseconds">ms</string>
+    <string name="mosLabel">MOS Value</string>
+    <string name="network_operator">NetworkOperator: %1$s</string>
+    <string name="network_provider">NetworkProvider: %1$s</string>
+    <string name="network_type_indicator">NetworkType: %1$s</string>
+    <string name="new_fragment" translatable="false">New fragment</string>
+    <string name="no_GPS_info">No GPS signal. %1$s</string>
+    <string name="no_values_message">There are no tests in your history.  Please run a test to see the values here.</string>
+    <string name="nonofficial">Crowd Source Android Tablet v1.2.5</string>
+    <string name="official">CPUC Tester Beta v2.0</string>
+    <string name="os_line">OS: Name = %1$s, Architecture = %2$s, Version = %3$s</string>
+    <string name="privacy_text"><p><b><u>\n\t\t\t\t\t\t\t\tPrivacy Policy\n\n</u></b></p>
+        The California Public Utilities Commission (CPUC) is the California recipient of an $8,000,000 State Broadband Data and Development Grant, awarded by the National Telecommunications and Information Administration (NTIA) under the American Recovery and Reinvestment Act (“ARRA”). The Grant funds certain broadband mapping and planning projects through October, 2014.  A portion of approximately $1,500,000 of the total grant is for the creation of a mobile app that can be used by the public to measure and report actual mobile broadband connection quality. The CPUC contracted with California State University, Monterey Bay (CSUMB) to develop an open source testing application that collects mobile broadband measurements in real-world conditions. \n
+        The CPUC Mobile Testing Application (Beta) will provide Californians with additional information about their mobile broadband connection and to build awareness about the importance of mobile broadband coverage in accessing information and services from the internet. As a part of this collection, the CPUC and CSUMB will collect and store Service Set Identifiers (SSID), Basic Service Set Identifiers (BSSID), and GPS coordinates.  All of this information will be available to the public. \n\n
+        An SSID is the name of a wireless local area network (WLAN). The SSID differentiates one WLAN from another. It is also a unique identifier that is attached to the header of packets sent over the wireless local area network. An SSID can be associated with multiple access points or devices.  In contrast, BSSID is unique to the access point and does not transfer between multiple access points.\n\n
+        This privacy policy is effective March 22,2013. Users who have downloaded this app will be notified of any changes through the App.  \n\n
+        California Bus. And Prof. Code §§22575 -22579, Gov. Code § 11019.9\n
+    </string>
+    <string name="privacy_title">Privacy Policy</string>
+    <string name="results_label">Results</string>
+    <string name="results_text">Results text goes here.</string>
+    <string name="results_title">Results History</string>
+    <string name="server_indicator">Server: %1$s</string>
+    <string name="show" translatable="false">Show</string>
+    <string name="speed_text" translatable="false">\n\nDisplay Speeds in</string>
+    <string name="standardTest">Start Test</string>
+    <string name="testAgain">"Test Again"</string>
+    <string name="test_again">---------End of Test-------</string>
+    <string name="test_begins_at">Testing started at %1$s</string>
+    <string name="test_interrupted_at"> interrupted at %1$s</string>
+    <string name="timeLabel">Time</string>
+    <string name="to_header">To:</string>
+    <string name="ui_menu_about" translatable="false">about</string>
+    <string name="ui_menu_add" translatable="false">add</string>
+    <string name="ui_menu_feedback" translatable="false">feedback</string>
+    <string name="ui_menu_quit" translatable="false">quit</string>
+    <string name="ui_menu_search" translatable="false">search</string>
+    <string name="ui_menu_send" translatable="false">send</string>
+    <string name="ui_menu_share" translatable="false">share</string>
+    <string name="ui_tabname_blank" translatable="false"/>
+    <string name="ui_tabname_results" translatable="false">Results</string>
+    <string name="ui_tabname_settings" translatable="false">Settings</string>
+    <string name="ui_tabname_tester" translatable="false">Tester</string>
+    <string name="ui_tabname_viewer" translatable="false">Viewer</string>
+    <string name="uploadLabel">Upload Speed</string>
+    <string name="version_indicator">Version: %1$s</string>
+</resources>

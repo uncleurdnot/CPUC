@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\release\\anim\\slidein.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\anim\\slidein.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\release\\anim\\slideout.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\anim\\slideout.xml"
+    }
+]

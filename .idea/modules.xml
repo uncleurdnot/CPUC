@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalSPEED/CalSPEED.iml" filepath="$PROJECT_DIR$/CalSPEED/CalSPEED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalSPEED_android_studio.iml" filepath="$PROJECT_DIR$/CalSPEED_android_studio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionbarsherlock/actionbarsherlock.iml" filepath="$PROJECT_DIR$/actionbarsherlock/actionbarsherlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googleplayservices_lib/googleplayservices_lib.iml" filepath="$PROJECT_DIR$/googleplayservices_lib/googleplayservices_lib.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]

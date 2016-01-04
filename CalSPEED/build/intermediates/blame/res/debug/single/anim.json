@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\anim\\slideout.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\anim\\slideout.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\anim\\slidein.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\anim\\slidein.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\anim\\slidein.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\anim\\slidein.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\anim\\slidein.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\anim\\slidein.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\anim\\slideout.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\anim\\slideout.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\anim\\slideout.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\anim\\slideout.xml"
+    }
+]

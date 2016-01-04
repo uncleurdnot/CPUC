@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4\\powered_by_google_light.png",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\googleplayservices_lib\\unspecified\\res\\drawable-xxxhdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4\\powered_by_google_dark.png",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\googleplayservices_lib\\unspecified\\res\\drawable-xxxhdpi-v4\\powered_by_google_dark.png"
+    }
+]
