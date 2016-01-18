@@ -12,8 +12,16 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\color\\abs__primary_text_holo_light.xml"
     },
     {
+        "merged": "C:\\Users\\Markus\\School\\Internship\\CalSpeed Android\\Android Studio Official\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abs__primary_text_holo_light.xml",
+        "source": "C:\\Users\\Markus\\School\\Internship\\CalSpeed Android\\Android Studio Official\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\color\\abs__primary_text_holo_light.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abs__primary_text_disable_only_holo_light.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\color\\abs__primary_text_disable_only_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abs__primary_text_holo_dark.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\color\\abs__primary_text_holo_dark.xml"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abs__primary_text_holo_dark.xml",
@@ -24,11 +32,51 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\color\\abs__primary_text_disable_only_holo_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abs__primary_text_disable_only_holo_light.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\color\\abs__primary_text_disable_only_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abs__primary_text_disable_only_holo_dark.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\color\\abs__primary_text_disable_only_holo_dark.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abs__primary_text_disable_only_holo_light.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\color\\abs__primary_text_disable_only_holo_light.xml"
     },
     {
+        "merged": "C:\\Users\\Markus\\School\\Internship\\CalSpeed Android\\Android Studio Official\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abs__primary_text_disable_only_holo_light.xml",
+        "source": "C:\\Users\\Markus\\School\\Internship\\CalSpeed Android\\Android Studio Official\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\color\\abs__primary_text_disable_only_holo_light.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abs__primary_text_holo_dark.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\color\\abs__primary_text_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abs__primary_text_holo_light.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\color\\abs__primary_text_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\Android Studio Official\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abs__primary_text_disable_only_holo_light.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\Android Studio Official\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\color\\abs__primary_text_disable_only_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\Android Studio Official\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abs__primary_text_holo_dark.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\Android Studio Official\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\color\\abs__primary_text_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\Android Studio Official\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abs__primary_text_disable_only_holo_dark.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\Android Studio Official\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\color\\abs__primary_text_disable_only_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\School\\Internship\\CalSpeed Android\\Android Studio Official\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abs__primary_text_holo_dark.xml",
+        "source": "C:\\Users\\Markus\\School\\Internship\\CalSpeed Android\\Android Studio Official\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\color\\abs__primary_text_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\School\\Internship\\CalSpeed Android\\Android Studio Official\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abs__primary_text_disable_only_holo_dark.xml",
+        "source": "C:\\Users\\Markus\\School\\Internship\\CalSpeed Android\\Android Studio Official\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\color\\abs__primary_text_disable_only_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\Android Studio Official\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abs__primary_text_holo_light.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\Android Studio Official\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\color\\abs__primary_text_holo_light.xml"
     }
 ]

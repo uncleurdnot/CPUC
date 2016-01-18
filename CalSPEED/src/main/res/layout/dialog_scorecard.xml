@@ -142,7 +142,7 @@
                 android:adjustViewBounds="true"
                 android:layout_marginRight="8px"
                 android:paddingLeft="@dimen/adjustmentPadding"
-                android:src="@drawable/latency_big"
+                android:src="@drawable/jitter_big"
                />
 
 	    <TextView
@@ -183,7 +183,7 @@
                 android:adjustViewBounds="true"
                 android:layout_marginRight="8px"
                 android:paddingLeft="@dimen/adjustmentPadding"
-                android:src="@drawable/jitter_big"
+                android:src="@drawable/latency_big"
                />
 
 	    <TextView

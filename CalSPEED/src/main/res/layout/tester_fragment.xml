@@ -204,7 +204,7 @@
                 android:layout_gravity="center_vertical"
                 android:adjustViewBounds="true"
                 android:paddingLeft="@dimen/adjustmentPadding"
-                android:src="@drawable/latency_big" />
+                android:src="@drawable/jitter_big" />
 
             <TextView
                 android:id="@+id/latencyLabel"
@@ -266,7 +266,7 @@
                 android:layout_gravity="center_vertical"
                 android:adjustViewBounds="true"
                 android:paddingLeft="@dimen/adjustmentPadding"
-                android:src="@drawable/jitter_big" />
+                android:src="@drawable/latency_big" />
             
             <TextView
                 android:id="@+id/jitterLabel"

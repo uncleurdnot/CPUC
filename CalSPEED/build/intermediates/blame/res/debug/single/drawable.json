@@ -4,12 +4,12 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\up5.png"
     },
     {
-        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\down3.png",
-        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\drawable\\down3.png"
-    },
-    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\right_arrow.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\right_arrow.png"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\down3.png",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\drawable\\down3.png"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\down8.png",
@@ -20,20 +20,36 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__list_selector_holo_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\down8.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\down8.png"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\down10.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\drawable\\down10.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\up10.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\up10.png"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_button_off.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\drawable\\toggle_button_off.png"
     },
     {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\googleplayservices_lib\\unspecified\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_checked.9.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\drawable\\toggle_checked.9.png"
     },
     {
-        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
-        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\googleplayservices_lib\\unspecified\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_checked.9.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\toggle_checked.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\googleplayservices_lib\\unspecified\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
@@ -60,16 +76,28 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\drawable\\up10.png"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_button_off.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\toggle_button_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__activated_background_holo_dark.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__activated_background_holo_dark.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\outdoortoggle.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\drawable\\outdoortoggle.xml"
+    },
+    {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_dialog_icon.png",
+        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\alert_dialog_icon.png"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_button.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\toggle_button.xml"
     },
     {
-        "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_dialog_icon.png",
-        "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\alert_dialog_icon.png"
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\up8.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\up8.png"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
@@ -96,16 +124,36 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\drawable\\up8.png"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_clear_holo_light.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__ic_clear_holo_light.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_clear.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\drawable\\abs__ic_clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_menu_moreoverflow_holo_dark.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__ic_menu_moreoverflow_holo_dark.xml"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\googleplayservices_lib\\unspecified\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\googleplayservices_lib\\unspecified\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\googleplayservices_lib\\unspecified\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\bluebutton.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\bluebutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\legend.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\legend.png"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
@@ -132,6 +180,10 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\drawable\\abs__textfield_searchview_right_holo_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\up6.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\up6.png"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_disabled.9.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\drawable\\toggle_disabled.9.png"
     },
@@ -140,8 +192,16 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\toggle_indoor_gray.png"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\down11.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\down11.png"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__btn_cab_done_holo_dark.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__btn_cab_done_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_holo_light.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__list_selector_holo_light.xml"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_button.xml",
@@ -156,8 +216,16 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\drawable\\toggle_indoor_gray.png"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_outdoor_gray.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\toggle_outdoor_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\border.xml"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\up2.png",
@@ -168,12 +236,16 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\drawable\\abs__textfield_searchview_right_holo_light.xml"
     },
     {
+        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\customborder.xml",
+        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\drawable\\customborder.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__btn_cab_done_holo_dark.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\drawable\\abs__btn_cab_done_holo_dark.xml"
     },
     {
-        "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\customborder.xml",
-        "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\drawable\\customborder.xml"
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_button.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\toggle_button.xml"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_background_transition_holo_light.xml",
@@ -216,8 +288,16 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\drawable\\abs__btn_cab_done_holo_light.xml"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\down1.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\down1.png"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\googleplayservices_lib\\unspecified\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\down4.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\down4.png"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__search_dropdown_light.xml",
@@ -236,8 +316,16 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__textfield_searchview_right_holo_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__activated_background_holo_light.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__activated_background_holo_light.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__activated_background_holo_dark.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__activated_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_outdoor_gray.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\toggle_outdoor_gray.png"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_background_transition_holo_light.xml",
@@ -252,8 +340,24 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\drawable\\down7.png"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__list_selector_background_transition_holo_dark.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\upload_big.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\drawable\\upload_big.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\googleplayservices_lib\\unspecified\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\up1.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\up1.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\upnull.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\upnull.png"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_clear_holo_light.xml",
@@ -272,6 +376,10 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\down3.png"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\upload_big.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\upload_big.png"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__spinner_ab_holo_light.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\drawable\\abs__spinner_ab_holo_light.xml"
     },
@@ -282,6 +390,10 @@
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\down11.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\down11.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_menu_moreoverflow_holo_light.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__ic_menu_moreoverflow_holo_light.xml"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_horizontal_holo_dark.xml",
@@ -296,6 +408,10 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\indoortoggle.xml"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_disabled.9.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\toggle_disabled.9.png"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_checked.9.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\drawable\\toggle_checked.9.png"
     },
@@ -308,12 +424,20 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__item_background_holo_light.xml"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\up2.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\up2.png"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\down1.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\drawable\\down1.png"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\downnull.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\drawable\\downnull.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\down2.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\down2.png"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\up6.png",
@@ -336,8 +460,16 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\drawable\\up2.png"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar_big.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\calendar_big.png"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\up7.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\drawable\\up7.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_horizontal_holo_dark.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__progress_horizontal_holo_dark.xml"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_indoor_blue.png",
@@ -352,8 +484,16 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\drawable\\abs__item_background_holo_light.xml"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_search.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\ic_menu_search.png"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_search.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\drawable\\ic_menu_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_medium_holo.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__progress_medium_holo.xml"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
@@ -376,6 +516,14 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\ic_menu_search.png"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\down3.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\down3.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_horizontal_holo_light.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__progress_horizontal_holo_light.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\down2.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\down2.png"
     },
@@ -386,6 +534,14 @@
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__item_background_holo_dark.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\up9.png",
@@ -448,6 +604,10 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\drawable\\right_arrow.png"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_dialog_icon.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\alert_dialog_icon.png"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\up7.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\drawable\\up7.png"
     },
@@ -458,6 +618,10 @@
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_menu_moreoverflow_holo_light.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\drawable\\abs__ic_menu_moreoverflow_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\blueprogress.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\blueprogress.xml"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\cpucicon.png",
@@ -472,8 +636,20 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__progress_horizontal_holo_light.xml"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\googleplayservices_lib\\unspecified\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_pressed.9.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\toggle_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__spinner_ab_holo_light.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\jitter_big.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\jitter_big.png"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_clear.xml",
@@ -504,6 +680,10 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\up11.png"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\customborder.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\customborder.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\mobileicon.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\mobileicon.png"
     },
@@ -520,12 +700,20 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\drawable\\down7.png"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\googleplayservices_lib\\unspecified\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_menu_moreoverflow_holo_light.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__ic_menu_moreoverflow_holo_light.xml"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_outdoor_blue.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\drawable\\toggle_outdoor_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\outdoortoggle.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\outdoortoggle.xml"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\satelliteicon.png",
@@ -568,6 +756,10 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\toggle_default.9.png"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__item_background_holo_dark.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__item_background_holo_dark.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\blueprogress.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\drawable\\blueprogress.xml"
     },
@@ -582,6 +774,10 @@
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_holo_light.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\up7.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\up7.png"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\outdoortoggle.xml",
@@ -608,6 +804,18 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__activated_background_holo_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__btn_cab_done_holo_dark.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__btn_cab_done_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_clear.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__ic_clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_holo_dark.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__textfield_searchview_holo_dark.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\googleplayservices_lib\\unspecified\\res\\drawable\\common_plus_signin_btn_text_light.xml"
     },
@@ -624,12 +832,20 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\drawable\\down2.png"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\down9.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\down9.png"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\upload_big.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\drawable\\upload_big.png"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\jitter_big.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\drawable\\jitter_big.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__item_background_holo_light.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__item_background_holo_light.xml"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_button_on.png",
@@ -646,6 +862,10 @@
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\up4.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\up4.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__spinner_ab_holo_dark.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__spinner_ab_holo_dark.xml"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
@@ -666,6 +886,10 @@
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_background_transition_holo_dark.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\up9.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\up9.png"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_indoor_blue.png",
@@ -752,6 +976,10 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__textfield_searchview_right_holo_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\mobileicon.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\mobileicon.png"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_clear_holo_light.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__ic_clear_holo_light.xml"
     },
@@ -766,6 +994,10 @@
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\fixed.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\fixed.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\up5.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\up5.png"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_button_off.png",
@@ -788,8 +1020,20 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\googleplayservices_lib\\unspecified\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\satelliteicon.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\satelliteicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\googleplayservices_lib\\unspecified\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\latency_big.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\latency_big.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\up11.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\up11.png"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_horizontal_holo_light.xml",
@@ -800,8 +1044,20 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\drawable\\down10.png"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\cpucicon.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\cpucicon.png"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__spinner_ab_holo_light.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\down10.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\down10.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_pressed.9.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\toggle_pressed.9.png"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
@@ -824,6 +1080,10 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\drawable\\latency_big.png"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__btn_cab_done_holo_light.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__btn_cab_done_holo_light.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__tab_indicator_ab_holo.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__tab_indicator_ab_holo.xml"
     },
@@ -844,8 +1104,20 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\drawable\\toggle_indoor_gray.png"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\down7.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\down7.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\googleplayservices_lib\\unspecified\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_button_on.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\drawable\\toggle_button_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_default.9.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\toggle_default.9.png"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_horizontal_holo_dark.xml",
@@ -856,12 +1128,28 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__tab_indicator_ab_holo.xml"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\googleplayservices_lib\\unspecified\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\downnull.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\downnull.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__btn_cab_done_holo_light.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__btn_cab_done_holo_light.xml"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\googleplayservices_lib\\unspecified\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\bluetoggle.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\bluetoggle.xml"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__search_dropdown_light.xml",
@@ -888,8 +1176,16 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\drawable\\toggle_disabled.9.png"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_button_on.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\toggle_button_on.png"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\up3.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\drawable\\up3.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\cpuc.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\cpuc.png"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\down9.png",
@@ -902,6 +1198,10 @@
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__btn_cab_done_holo_dark.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__btn_cab_done_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\right_arrow.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\right_arrow.png"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_checked.9.png",
@@ -928,8 +1228,16 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\drawable\\up5.png"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\googleplayservices_lib\\unspecified\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\up4.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\drawable\\up4.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_indoor_gray.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\toggle_indoor_gray.png"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
@@ -956,8 +1264,16 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\drawable\\right_arrow.png"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\up3.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\up3.png"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\downnull.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\downnull.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_indoor_blue.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\toggle_indoor_blue.png"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_medium_holo.xml",
@@ -972,8 +1288,20 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__list_selector_background_transition_holo_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\down5.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\down5.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__search_dropdown_light.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__search_dropdown_light.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_horizontal_holo_dark.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\latency_big.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\latency_big.png"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_button_off.png",
@@ -984,12 +1312,28 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\drawable\\result.png"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\up4.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\up4.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\fixed.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\fixed.png"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__tab_indicator_ab_holo.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio_02\\actionbarsherlock\\unspecified\\res\\drawable\\abs__tab_indicator_ab_holo.xml"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_right_holo_light.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__textfield_searchview_right_holo_light.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\down6.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\down6.png"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar_big.png",
@@ -1012,6 +1356,10 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\drawable\\up3.png"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_right_holo_dark.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__textfield_searchview_right_holo_dark.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\latency_big.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\drawable\\latency_big.png"
     },
@@ -1024,8 +1372,20 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\up1.png"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__tab_indicator_ab_holo.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__tab_indicator_ab_holo.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\up9.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\src\\main\\res\\drawable\\up9.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_outdoor_blue.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\toggle_outdoor_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_holo_light.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__textfield_searchview_holo_light.xml"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__spinner_ab_holo_dark.xml",
@@ -1036,8 +1396,20 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__list_selector_holo_light.xml"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\result.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\result.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\download_big.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\download_big.png"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_default.9.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\calSPEED_1_2\\src\\main\\res\\drawable\\toggle_default.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__search_dropdown_dark.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\actionbarsherlock\\unspecified\\res\\drawable\\abs__search_dropdown_dark.xml"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_outdoor_blue.png",
@@ -1122,6 +1494,10 @@
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\exploded-aar\\CalSPEED_android_studio\\googleplayservices_lib\\unspecified\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable\\indoortoggle.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable\\indoortoggle.xml"
     },
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\calSPEED_1_2\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_holo_light.xml",

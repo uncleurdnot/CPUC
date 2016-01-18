@@ -10,5 +10,9 @@
     {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\CalSPEED\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
     }
 ]

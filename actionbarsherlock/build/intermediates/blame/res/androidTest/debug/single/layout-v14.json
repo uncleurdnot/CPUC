@@ -4,6 +4,10 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout-v14\\sherlock_spinner_dropdown_item.xml"
     },
     {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v14\\sherlock_spinner_item.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout-v14\\sherlock_spinner_item.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio_02\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v14\\sherlock_spinner_dropdown_item.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout-v14\\sherlock_spinner_dropdown_item.xml"
     },
@@ -12,7 +16,27 @@
         "source": "C:\\ybyun\\CalSPEED_android_studio_02\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout-v14\\sherlock_spinner_item.xml"
     },
     {
+        "merged": "C:\\Users\\Markus\\School\\Internship\\CalSpeed Android\\Android Studio Official\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v14\\sherlock_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Markus\\School\\Internship\\CalSpeed Android\\Android Studio Official\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout-v14\\sherlock_spinner_dropdown_item.xml"
+    },
+    {
         "merged": "C:\\ybyun\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v14\\sherlock_spinner_item.xml",
         "source": "C:\\ybyun\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout-v14\\sherlock_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\Android Studio Official\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v14\\sherlock_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\Android Studio Official\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout-v14\\sherlock_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v14\\sherlock_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\ASO\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout-v14\\sherlock_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\CPUC\\Android Studio Official\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v14\\sherlock_spinner_item.xml",
+        "source": "C:\\Users\\Markus\\CPUC\\Android Studio Official\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout-v14\\sherlock_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Markus\\School\\Internship\\CalSpeed Android\\Android Studio Official\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v14\\sherlock_spinner_item.xml",
+        "source": "C:\\Users\\Markus\\School\\Internship\\CalSpeed Android\\Android Studio Official\\CalSPEED_android_studio\\actionbarsherlock\\build\\intermediates\\bundles\\debug\\res\\layout-v14\\sherlock_spinner_item.xml"
     }
 ]
