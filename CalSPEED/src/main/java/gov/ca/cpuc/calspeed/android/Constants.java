@@ -25,7 +25,7 @@ public class Constants {
    */
   public static final int TEST_STEPS = 18;
 
-  public static final String privacyPolicyURL="http://www.broadbandmap.ca.gov/";
+  public static final String privacyPolicyURL="http://www.cpuc.ca.gov/General.aspx?id=1778";
  
   public static final float METERS_TO_FEET = 3.28084f;
  

@@ -325,7 +325,7 @@ public class StandardTest implements Runnable {
 				uiServices.setStatusText("No Network Connection.");
 				Log.i("INFO", "No network connection 1");
 				SaveAllResults();
-				uiServices.onEndTest();
+				//uiServices.onEndTest();
 				
 			} else if (runStatus == RUNCOMMAND_INTERRUPT){
 				Log.v("LAWDebug", "RUNCOMMAND_INTERRUPT.");
