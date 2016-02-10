@@ -134,6 +134,7 @@ public class StandardTest implements Runnable {
 	private ProcessPing pingStatsEast;
 	private ProcessPing pingStatsWest;
 	private static Boolean pingStatusFailed;
+	private static Boolean noNetworkConnection;
 	private static Float pingaverage;
 	private static Double mosValue;
 	private static ArrayList <Double> udpLosses;
@@ -324,6 +325,9 @@ public class StandardTest implements Runnable {
 				runStatus = PING_CONNECTIVITY_FAIL;
 				uiServices.setStatusText("No Network Connection.");
 				Log.i("INFO", "No network connection 1");
+				//SetPingAvgFinal(pingStatsWest,pingStatsEast);
+				//pingStatusFailed = true;
+				noNetworkConnection = true;
 				SaveAllResults();
 				//uiServices.onEndTest();
 				
@@ -335,6 +339,7 @@ public class StandardTest implements Runnable {
 				printToSummary("\nConnectivity Test Failed--Exiting Test.\n");
 				runStatus = PING_CONNECTIVITY_FAIL;
 			} else {
+				noNetworkConnection = false;
 				Log.v("LAWDebug", "ELSE.");
 				printLatLong();
 
@@ -704,7 +709,10 @@ public class StandardTest implements Runnable {
 		}
 		
 		try{
-			if (!pingStatusFailed){
+			if(noNetworkConnection)
+			{
+				latency = "N/A";
+			}else if (!pingStatusFailed ){//this pingStatusFailed = true when latency value saving issues happen
 				Integer numInt = Math.round(pingaverage);
 				latency =ProcessIperf.formatFloatString(numInt.toString());
 			}else{
@@ -726,7 +734,10 @@ public class StandardTest implements Runnable {
 		}
 		
 		try{
-			if (!pingStatusFailed || !udpStatusFailed){
+			if(noNetworkConnection)
+			{
+				mos = "N/A";
+			}else if (!pingStatusFailed || !udpStatusFailed){//this pingStatusFailed = true when mos value saving issues happen
 				Double numDouble = mosValue;
 				mos = ProcessIperf.formatFloatString(numDouble.toString());
 			} else {
