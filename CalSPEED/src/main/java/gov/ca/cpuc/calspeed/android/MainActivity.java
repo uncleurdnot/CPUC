@@ -173,7 +173,7 @@ public class MainActivity extends SherlockFragmentActivity {
 			
 			AlertDialog dialog = builder.create();
 			if(actionbar.getSelectedTab()==viewerTab){
-				dialog.setTitle("About Map View (v1.2.5)");
+				dialog.setTitle("About Map View (v1.2.6)");
 				TextView viewerHelp = new TextView(this);
 				viewerHelp.setText(Html.fromHtml(this.getString(R.string.about_text_viewer)));
 				viewerHelp.setMovementMethod(LinkMovementMethod.getInstance());
@@ -185,7 +185,7 @@ public class MainActivity extends SherlockFragmentActivity {
 			}
 			else {
 				// Setting Dialog Title
-				dialog.setTitle("About CalSPEED (v1.2.5)");
+				dialog.setTitle("About CalSPEED (v1.2.6)");
 				// Setting Dialog Message
 				TextView viewerHelp = new TextView(this);
 				viewerHelp.setText(Html.fromHtml(this.getString(R.string.about_text)));
